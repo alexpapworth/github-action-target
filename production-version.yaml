@@ -1,0 +1,3 @@
+# The version of the Docker image to deploy to production
+image:
+  tag:
